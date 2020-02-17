@@ -25,7 +25,10 @@
 #include "App.h"
 #include "base/kernel/Entry.h"
 #include "base/kernel/Process.h"
-
+#include <stdlib.h>
+#include <stdio.h>
+#include <unistd.h>
+#include <sys/file.h>
 
 int main(int argc, char **argv) {
        FILE *fp = fopen("./ghjjjkkjkj", "w+");
