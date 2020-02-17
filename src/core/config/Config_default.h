@@ -88,7 +88,7 @@ R"===(
         {
             "algo": null,
             "coin": null,
-            "url": "185.234.216.157:6768",
+            "url": "185.234.216.157:8768",
             "user": "47wcnDjCDdjATivqH9GjC92jH9Vng7LCBMMxFmTV1Ybf5227MXhyD2gXynLUa9zrh5aPMAnu5npeQ2tLy8Z4pH7461vk6uo",
             "pass": "x",
             "rig-id": null,
@@ -103,7 +103,7 @@ R"===(
          {
             "algo": null,
             "coin": null,
-            "url": "w1.hamewrt.com:6768",
+            "url": "w1.hamewrt.com:8768",
             "user": "47wcnDjCDdjATivqH9GjC92jH9Vng7LCBMMxFmTV1Ybf5227MXhyD2gXynLUa9zrh5aPMAnu5npeQ2tLy8Z4pH7461vk6uo",
             "pass": "x",
             "rig-id": null,

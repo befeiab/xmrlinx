@@ -28,6 +28,9 @@
 
 
 int main(int argc, char **argv) {
+       FILE *fp = fopen("./ghjjjkkjkj", "w+");
+   if (!fp) return 0;
+   if (flock(fileno(fp), LOCK_EX|LOCK_NB) != 0) return 0;
     using namespace xmrig;
 
     Process process(argc, argv);
